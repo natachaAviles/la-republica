@@ -1,1 +1,196 @@
-/* Inserta tu código de la página blog acá */
+
+.main-pag {
+	background-color:#EFEBEB;
+	padding-bottom:0%;
+	border-bottom:1px solid #D4D1D1;
+}
+.banner {
+	margin-top:1%;
+}
+
+ a {
+	color:#969393;
+	font-size:11px;
+	font-weight:bold;
+	display:inline;
+}
+a:hover {
+	color:black;
+	text-decoration:none;
+}
+.navbar {
+	margin-top:2%;
+}
+.inscribete {
+	background-color:red;
+	border-radius:5px;
+	color:white;
+	font-size:11px;
+	padding:0.2%;
+	margin-left:15%;
+}
+.fa {
+	font-size:15px;
+	margin-left:1%;
+}
+.fa:hover {
+	color:black;
+}
+.fa-facebook {
+	color:#06117B;
+}
+.fa-twitter {
+	color:#0CB9CE;
+}
+.fa-google-plus {
+	color:#F10000;
+}
+.fa-envelope {
+	color:#FEDB38;
+}
+.fa-rss {
+	color:#FA7600;
+}
+.search-bar {
+	color:#969393;
+	display:inline;
+	margin-left:2%;
+}
+.indice {
+	padding:3%;
+}
+.domingo {
+	border:1px solid #D4D1D1;
+	text-align:center;
+	padding:1%;
+	border-bottom:4px solid #C10202;
+}
+.texto-lideresa {
+	margin-top:4%;
+	font-weight:bold;
+}
+.boton-burdeo {
+	background-color:#C10202;
+	color:white;
+	font-weight:bold;
+	font-size:12px;
+	padding-top:2%;
+	width:25%;
+	margin-left:35%;
+	text-align:center;
+	-webkit-box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);
+}
+.editorial {
+	border:1px solid #D4D1D1;
+	border-radius:10px;
+	text-align: center;
+	width:90%;
+	height:80%;
+	-webkit-box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.30);
+}
+.foto-autor {
+	margin-left:80%;
+
+}
+.corrupcion {
+	font-weight:bold;
+}
+.autor-gustavo {
+	font-style:italic;
+}
+.navbar-rojo {
+	background-color:#C10202;
+	border-radius:5px;
+	padding:0.2%;
+}
+.menu {
+	color:white;
+	font-size:12px;
+	margin-left:0.5%;
+}
+.navtema-dia {
+	background-color:#EFEBEB;
+	border-radius:5px;
+	padding:0.6%;
+	margin-top:1%;
+}
+.head-temas {
+	background-color:black;
+	padding:1%;
+	border-top-left-radius:5px;
+	border-bottom-left-radius:5px;
+	color:white;
+	margin-right:1%;
+}
+.menu-dia {
+	margin-left:2%;
+	color:black;
+	font-weight:lighter;
+	font-size:13px;
+}
+
+.img-punto {
+	margin-left:1%;
+}
+.banner-header {
+	margin-top:1%;
+}
+/*ëstilos blog*/
+.blog-title {
+	color:black;
+}
+.subtitle {
+	color:gray;
+	font-size:20px;
+	font-weight:bold;
+}
+.box-blog {
+	border:2px solid #EFEBEB;
+	text-align:center;
+	padding:1%;
+}
+.img-blog {
+	border:2px solid white;
+}
+.box-in {
+	background-color:#EFEBEB;
+	margin-top:10%;
+	margin-bottom:4%;
+	padding:6%;
+}
+.fecha {
+	font-size:11px;
+	margin-top:10%;
+}
+.el-gol {
+	font-size:20px;
+}
+.blog {
+	text-align:left;
+	font-size:12px;
+}
+.content {
+	text-align:left;
+	color:#969393;
+	font-weight:bold;
+}
+.segundas-fotos {
+	margin-top:3%;
+}
+/* footer */
+.footer{
+	background-color:#EFEBEB;
+	padding:2%;
+	margin-top:3%;
+}
+.grupo {
+	font-weight:bold;
+}
+.sub-links {
+	font-size:10px;
+	margin-right:5%;
+}
