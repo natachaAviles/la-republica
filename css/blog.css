@@ -1,4 +1,6 @@
-
+* {
+	font-family: 'Pavanam', sans-serif;
+}
 .main-pag {
 	background-color:#EFEBEB;
 	padding-bottom:0%;
@@ -110,7 +112,7 @@ a:hover {
 .menu {
 	color:white;
 	font-size:12px;
-	margin-left:0.5%;
+	margin-left:1.5%;
 }
 .navtema-dia {
 	background-color:#EFEBEB;
@@ -129,7 +131,6 @@ a:hover {
 .menu-dia {
 	margin-left:2%;
 	color:black;
-	font-weight:lighter;
 	font-size:13px;
 }
 
@@ -184,13 +185,22 @@ a:hover {
 /* footer */
 .footer{
 	background-color:#EFEBEB;
-	padding:2%;
+	padding:4%;
 	margin-top:3%;
 }
 .grupo {
 	font-weight:bold;
 }
 .sub-links {
-	font-size:10px;
-	margin-right:5%;
+	font-size:12px;
+}
+.borde-izquierdo {
+	border-left:1px solid gray;
+}
+.final {
+	border-top:1px solid black;
+	font-size:13px;
+	margin-top:2%;
+	padding-top:3%;
+	font-weight:bold;
 }
