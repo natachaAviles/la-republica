@@ -1,1 +1,53 @@
-/* Inserta tu código de la página home/index acá */
+.backuno {
+	background: url(../image/img_grid_principal.jpg) no-repeat;
+	height: 600px;
+}
+.backdos {
+	background: url(../image/img_grid_secundario.jpg) no-repeat;
+	height: 250px;
+}
+.backtres {
+	background: url(../image/img_grid_secundario.jpg) no-repeat;
+	height: 250px;
+}
+.tit h3 >a {
+	color: #fff;
+}
+.btn-default {
+	background-color: #D50000;
+	color: #fff;
+	border-style: none;
+	padding: 1%;
+}
+.boton {
+	margin-top: -24px;
+}
+.gris {
+	background-color: #e8e8e8;
+}
+.columnistas {
+	padding: 2%;
+	margin-bottom: 10px;
+	font-size: 15px;
+}
+hr {
+  background-color: red;
+  height: 3px;
+  margin: -4%;
+  border: none;
+}
+.mv {
+	font-size: 11px;
+}
+.mega >a {
+	color: #000;
+
+}
+.marpics .col-md-2 img {
+	margin: auto;
+}
+.vargasllosa {
+	border-style: solid;
+	border-color: #fff;
+	border-width: 5px;
+} 
